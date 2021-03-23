@@ -1,7 +1,7 @@
 ﻿---
-제목: 온라인 호스팅 지침
+title: 온라인 호스팅 지침
 permalink: index.html
-layout: 홈
+layout: home
 ---
 
 # Azure Machine Learning 연습
