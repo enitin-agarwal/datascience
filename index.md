@@ -10,7 +10,7 @@ layout: home
 
 이러한 연습을 완료하려면 Microsoft Azure 구독이 필요합니다. 강사가 구독을 제공하지 않은 경우 [https://azure.microsoft.com](https://azure.microsoft.com)에서 등록을 하면 무료 평가판을 받을 수 있습니다.
 
-{% assign labs = site.pages | where_exp:"page", "page.url contains '/instructions'" %}
+{% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions'" %}
 | 연습 |
 | ------- | 
 {% for activity in labs  %}| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) |
