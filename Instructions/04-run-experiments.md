@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '실험 실행'
 ---
@@ -40,13 +40,13 @@ Azure Machine Learning SDK는 컴퓨팅 인스턴스에 기본적으로 설치�
 
 4. **터미널** 탭을 닫고 Jupyter 홈 페이지가 표시된 탭으로 돌아옵니다.
 
-> **추가 정보**: Azure ML SDK 및 선택적 구성 요소 설치에 대한 자세한 내용은 [Azure ML SDK 설명서](https://docs.microsoft.com/python/api/overview/azure/ml/install?view=azure-ml-py)를 참조하세요.
+> **자세한 정보**: Azure ML SDK 및 선택적 구성 요소 설치에 대한 자세한 내용은 [Azure ML SDK 설명서](https://docs.microsoft.com/python/api/overview/azure/ml/install?view=azure-ml-py)를 참조하세요.
 
 ## Notebook에서 실험 실행
 
 Azure Machine Learning의 실험은 일종의 *제어* 레이어(대개 스크립트나 프로그램)에서 시작해야 합니다. 이 연습에서는 Notebook을 사용하여 실험을 제어합니다.
 
-1. Jupyter 홈 페이지에서 Notebook 리포지토리를 복제한 **Users/mslearn-dp100** 폴더로 이동하여 **Run Experiments** Notebook을 엽니다.
+1. Jupyter 홈 페이지에서 Notebook 리포지토리를 복제한 **/users/*your-user-name*/mslearn-dp100** 폴더로 이동하여 **Run Experiments** Notebook을 엽니다.
 2. 그런 다음 각 코드 셀을 차례로 실행하여 Notebook의 메모를 읽습니다.
 3. Notebook에서 코드 실행이 완료되면 **파일** 메뉴에서 **닫기 및 중지**를 클릭하여 Notebook을 닫고 Python 커널을 종료합니다. 그런 후에 모든 Jupyter 브라우저 탭을 닫습니다.
 

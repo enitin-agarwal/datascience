@@ -1,8 +1,8 @@
----
+﻿---
 lab:
     title: '모델 대상 학습 진행'
 ---
-# 모델 대상 학습 진행
+# 모델 학습
 
 기계 학습에서는 주로 애플리케이션에 예측 서비스를 제공하는 데 사용할 수 있는 모델의 학습을 수행합니다. 이 연습에서는 Azure Machine Learning 실험을 사용하여 학습 스크립트를 실행하는 방법과 학습된 모델을 등록하는 방법을 살펴보겠습니다.
 
@@ -21,7 +21,7 @@ Azure Machine Learning Studio의 **Notebooks** 페이지를 통해 Notebook을 �
 
 이 연습에서는 모델을 학습시키기 위한 코드가 Notebook에서 제공됩니다.
 
-1. Jupyter 홈 페이지에서 Notebook 리포지토리를 복제한 **Users/mslearn-dp100** 폴더로 이동하여 **Train Models** Notebook을 엽니다.
+1. Jupyter 홈 페이지에서 Notebook 리포지토리를 복제한 **/users/*your-user-name*/mslearn-dp100** 폴더로 이동하여 **Train Models** Notebook을 엽니다.
 2. 그런 다음 각 코드 셀을 차례로 실행하여 Notebook의 메모를 읽습니다.
 3. Notebook에서 코드 실행이 완료되면 **파일** 메뉴에서 **닫기 및 중지**를 클릭하여 Notebook을 닫고 Python 커널을 종료합니다. 그런 후에 모든 Jupyter 브라우저 탭을 닫습니다.
 
